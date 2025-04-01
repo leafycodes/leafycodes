@@ -66,7 +66,7 @@ I am a **Computer Science student** passionate about developing **intelligent sy
 ---
 
 ## Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafycodes&show_icons=true&theme=dark)  
 
 ---
 
