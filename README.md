@@ -1,6 +1,6 @@
 # Hi, I'm Anish  
 
-I am a **Computer Science student** passionate about developing **intelligent systems**, solving complex problems, and enhancing **network security**. I specialize in **AI/ML**, **cybersecurity**, **backend development**, and **system integration**, with hands-on experience in **building secure applications**.
+I am a **Computer Science student** passionate about developing **intelligent systems**, solving complex problems, and enhancing **network security**. I specialize in **Web Development**, **Core Programming**, **cybersecurity**, **backend development**, and **system integration**, with hands-on experience in **building secure applications**.
 
 ---
 
