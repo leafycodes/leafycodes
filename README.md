@@ -1,55 +1,139 @@
-# Hi, I'm Anish  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Anish (leafycodes)
 
-I am a **Computer Science student** passionate about developing **intelligent systems**, solving complex problems, and enhancing **network security**. I specialize in **Web Development**, **Core Programming**, **cybersecurity**, **backend development**, and **system integration**, with hands-on experience in **building secure applications**.
+### **🚀 Computer Science Student | Security-Focused Developer | Problem Solver**
 
----
+Passionate about building **secure, intelligent systems** and solving complex challenges through code. I specialize in **Backend Development, Cybersecurity, and System Integration**, with hands-on experience in **penetration testing, network security, and full-stack applications**.
 
-## Technologies & Tools  
-
-### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-
-### **Web Development**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+🔐 **Security-First Mindset** | 🛠️ **Full-Stack Proficiency** 
 
 ---
 
-## Past Projects  
+## **✨ Tech Stack Showcase**
 
-### **Accident Response System (CCTV, GPS, and Security Integration)**  
-- **Real-time Accident Monitoring:** Integrated **CCTV** feeds for continuous surveillance and **GPS tracking** for pinpointing accident locations in real time.  
-- **Security Measures:** Implemented **data encryption** for secure video streaming, ensuring that sensitive footage is protected during transmission.  
-- **Automated Alerts & Response:** Developed automated systems for sending **emergency alerts** based on live data from **CCTV feeds** and **GPS** location updates.  
-- **System Integration:** Combined **networking protocols**, **camera streaming**, and **location tracking** into a unified platform for instant emergency response.
+### **🛠️ My Developer Toolkit**
 
-### **Penetration Testing & Cybersecurity**  
-- Conducted comprehensive **penetration tests** on a variety of networked systems, including **web applications** and **infrastructure**.  
-- Specialized in identifying vulnerabilities like **SQL injection**, **cross-site scripting (XSS)**, and **remote code execution (RCE)**, providing solutions to secure systems and enhance their resilience against attacks.  
-- Performed risk assessments, security audits, and vulnerability management for enterprise-level applications and networks.  
+<div align="center">
+
+#### **💻 Programming Languages**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" alt="Python" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+</div>
+
+#### **🌐 Web Development**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin-bottom: 20px;">
+  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><p>HTML5</p></div>
+  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /><p>CSS3</p></div>
+  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /><p>React</p></div>
+  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /><p>Node.js</p></div>
+  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /><p>Express</p></div>
+</div>
+
+#### **🔒 Security & DevOps**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <div style="background: linear-gradient(135deg, #F05032 0%, #E82C0C 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><span style="color: white;">Git</span></div>
+  <div style="background: linear-gradient(135deg, #2496ED 0%, #1D7FCA 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><span style="color: white;">Docker</span></div>
+  <div style="background: linear-gradient(135deg, #557C94 0%, #3A5F7A 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" /><span style="color: white;">Kali Linux</span></div>
+</div>
+
+#### **🗃️ Databases**
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">MySQL</p></div>
+  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">MongoDB</p></div>
+  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">PostgreSQL</p></div>
+</div>
+
+</div>
+
+<style>
+  img:hover {
+    transition: all 0.3s ease;
+    transform: scale(1.1) rotate(5deg);
+  }
+  div[style*="background: linear-gradient"]:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  }
+</style>
 
 ---
 
-## Areas of Interest  
+## **🔥 Featured Projects**
 
-### **Core Programming**  
-- Mastery of **data structures**, **algorithms**, and **system-level programming**. Optimizing performance through efficient algorithms and focusing on **code scalability** and **reliability**.  
+### **🚨 Accident Response System (CCTV + GPS Integration)**
+✔ **Real-time Monitoring** – Integrated CCTV feeds & GPS for instant accident detection  
+✔ **Encrypted Streaming** – Secured video transmission with AES-256 encryption  
+✔ **Automated Alerts** – Built emergency notification system using Python & OpenCV  
+✔ **System Integration** – Combined networking protocols, APIs, and geolocation tracking  
 
-### **Database Management Systems (DBMS)**  
-- Expertise in **database design**, **data normalization**, and **SQL query optimization** for high-performance and scalable databases. Experience working with both **relational databases** (MySQL) and **NoSQL** (MongoDB, Redis) systems.  
-
-### **Cybersecurity**  
-- **Network Security:** Implementing **firewall** rules, **IDS/IPS systems**, and **VPN protocols** for securing **data transmission** and preventing unauthorized access.  
-- **Ethical Hacking & Penetration Testing:** Using various tools and techniques for identifying vulnerabilities in networks, web applications, and systems.  
-
-### **Backend Development**  
-- Expertise in **API development**, **microservices architecture**, and **server-side programming** using frameworks like **Flask** and **Node.js**.  
-- Focus on building **scalable**, **highly-available** systems and implementing **database interactions** and **security best practices**.
+### **🛡️ Penetration Testing & Security Research**
+✔ Conducted **vulnerability assessments** on web apps & networks  
+✔ Exploited **SQLi, XSS, RCE** vulnerabilities in controlled environments  
+✔ Developed **custom security scripts** for automated scanning  
+✔ Performed **risk analysis & mitigation strategies** for enterprises  
 
 ---
 
-## Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafycodes&show_icons=true&theme=dark)  
+## **🧠 Knowledge Areas**
+
+<details>
+<summary><b>🔐 Cybersecurity</b></summary>
+  
+- Network Security (Firewalls, IDS/IPS, VPNs)  
+- Ethical Hacking & Penetration Testing  
+- Cryptography & Secure Coding Practices  
+- Threat Modeling & Risk Assessment  
+</details>
+
+<details>
+<summary><b>💾 Backend & Systems</b></summary>
+  
+- RESTful API Development (Flask, Node.js)  
+- Database Design (SQL, NoSQL)  
+- Microservices Architecture  
+- Linux System Administration  
+</details>
+
+<details>
+<summary><b>⚙️ Core Programming</b></summary>
+  
+- Algorithms & Data Structures  
+- System-Level Programming (C/C++)  
+- Memory Management & Optimization  
+- Multi-threading & Concurrency  
+</details>
 
 ---
 
-If you'd like to discuss any of my projects or areas of interest further, feel free to reach out.
+## **📊 GitHub & LeetCode Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leafycodes&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leafycodes&theme=radical" alt="GitHub Streak" width="45%" /> 
+</p>
+
+<p align="center">
+  <!-- Replace 'your_leetcode_username' with your actual LeetCode username -->
+  <img src="https://leetcard.jacoblin.cool/governor_leaf?theme=dark&font=ABeeZee" alt="LeetCode Stats" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/governor_leaf?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
+</p>
+
+---
+
+## **📬 Let's Connect!**
+
+<p>
+  <a href="mailto:barikanish0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/leafycodes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/governor_leaf/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
