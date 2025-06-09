@@ -93,12 +93,13 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leafycodes&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leafycodes&theme=radical" alt="GitHub Streak" width="45%" /> 
 </p>
 
 <p align="center">
-  <!-- Replace 'your_leetcode_username' with your actual LeetCode username -->
-  <img src="https://leetcard.jacoblin.cool/governor_leaf?theme=dark&font=ABeeZee" alt="LeetCode Stats" width="45%" />
   <img src="https://leetcard.jacoblin.cool/governor_leaf?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Heatmap" width="45%" />
 </p>
 
