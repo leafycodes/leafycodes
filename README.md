@@ -47,12 +47,12 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 ### **🚨 Accident Response System (CCTV + GPS Integration)**
 ✔ **Real-time Monitoring** – Integrated CCTV feeds & GPS for instant accident detection  
 ✔ **Encrypted Streaming** – Secured video transmission with AES-256 encryption  
-✔ **Automated Alerts** – Built emergency notification system using Python & OpenCV  
-✔ **System Integration** – Combined networking protocols, APIs, and geolocation tracking  
+✔ **GPS** – Built a dummy GPS using Leaflet  
+✔ **System Integration** – Combined networking protocols, APIs, and predefined geolocation tracking  
 
 ### **🛡️ Penetration Testing & Security Research**
 ✔ Conducted **vulnerability assessments** on web apps & networks  
-✔ Exploited **SQLi, XSS, RCE** vulnerabilities in controlled environments  
+✔ Exploited **SQLi, user authentication, etc** vulnerabilities in controlled environments  
 ✔ Developed **custom security scripts** for automated scanning  
 ✔ Performed **risk analysis & mitigation strategies** for enterprises  
 
@@ -72,9 +72,8 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 <details>
 <summary><b>💾 Backend & Systems</b></summary>
   
-- RESTful API Development (Flask, Node.js)  
+- RESTful API Development (Node.js)  
 - Database Design (SQL, NoSQL)  
-- Microservices Architecture  
 - Linux System Administration  
 </details>
 
@@ -82,9 +81,8 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 <summary><b>⚙️ Core Programming</b></summary>
   
 - Algorithms & Data Structures  
-- System-Level Programming (C/C++)  
+- Core Programming (Java)  
 - Memory Management & Optimization  
-- Multi-threading & Concurrency  
 </details>
 
 ---
