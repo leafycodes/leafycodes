@@ -8,57 +8,37 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 
 ---
 
-## **✨ Tech Stack Showcase**
+## **✨ Tech Stack Showcase**  
+### **🛠️ My Developer Toolkit**  
 
-### **🛠️ My Developer Toolkit**
-
-<div align="center">
-
-#### **💻 Programming Languages**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" alt="Python" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+#### **💻 Programming Languages**  
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 15px; padding: 10px 0; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" title="SQL" />
 </div>
 
-#### **🌐 Web Development**
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 15px; margin-bottom: 20px;">
-  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /><p>HTML5</p></div>
-  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /><p>CSS3</p></div>
-  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /><p>React</p></div>
-  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /><p>Node.js</p></div>
-  <div style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /><p>Express</p></div>
+#### **🌐 Web Development**  
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 15px; padding: 10px 0; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" title="Express" />
 </div>
 
-#### **🔒 Security & DevOps**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <div style="background: linear-gradient(135deg, #F05032 0%, #E82C0C 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><span style="color: white;">Git</span></div>
-  <div style="background: linear-gradient(135deg, #2496ED 0%, #1D7FCA 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><span style="color: white;">Docker</span></div>
-  <div style="background: linear-gradient(135deg, #557C94 0%, #3A5F7A 100%); padding: 10px; border-radius: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" height="40" /><span style="color: white;">Kali Linux</span></div>
+#### **🗃️ Databases**  
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 15px; padding: 10px 0; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
 </div>
 
-#### **🗃️ Databases**
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">MySQL</p></div>
-  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">MongoDB</p></div>
-  <div style="text-align: center; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" /><p style="font-weight: bold; margin-top: 5px;">PostgreSQL</p></div>
+#### **🔒 Security & Version Control**  
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 15px; padding: 10px 0; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" height="50" alt="Kali Linux" title="Kali Linux" style="filter: brightness(0.9);" />
 </div>
-
-</div>
-
-<style>
-  img:hover {
-    transition: all 0.3s ease;
-    transform: scale(1.1) rotate(5deg);
-  }
-  div[style*="background: linear-gradient"]:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  }
-</style>
 
 ---
 
