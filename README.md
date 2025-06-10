@@ -2,9 +2,7 @@
 
 ### **🚀 Computer Science Student | Security-Focused Developer | Problem Solver**
 
-Passionate about building **secure, intelligent systems** and solving complex challenges through code. I specialize in **Backend Development, Cybersecurity, and System Integration**, with hands-on experience in **penetration testing, network security, and full-stack applications**.
-
-🔐 **Security-First Mindset** | 🛠️ **Full-Stack Proficiency** 
+Passionate about building **intelligent systems** and solving complex challenges through code. I specialize in **Backend Development, Cybersecurity, and System Integration**, with hands-on experience in **penetration testing, network security, and full-stack applications**.
 
 ---
 
@@ -46,15 +44,13 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 
 ### **🚨 Accident Response System (CCTV + GPS Integration)**
 ✔ **Real-time Monitoring** – Integrated CCTV feeds & GPS for instant accident detection  
-✔ **Encrypted Streaming** – Secured video transmission with AES-256 encryption  
 ✔ **GPS** – Built a dummy GPS using Leaflet  
 ✔ **System Integration** – Combined networking protocols, APIs, and predefined geolocation tracking  
 
 ### **🛡️ Penetration Testing & Security Research**
 ✔ Conducted **vulnerability assessments** on web apps & networks  
 ✔ Exploited **SQLi, user authentication, etc** vulnerabilities in controlled environments  
-✔ Developed **custom security scripts** for automated scanning  
-✔ Performed **risk analysis & mitigation strategies** for enterprises  
+✔ Performed **risk analysis & mitigation strategies** on vulnerable systems
 
 ---
 
@@ -106,6 +102,9 @@ Passionate about building **secure, intelligent systems** and solving complex ch
 ## **📬 Let's Connect!**
 
 <p>
+  <a href="www.linkedin.com/in/anish-kumar-barik-17a301323">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/leafycodes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
