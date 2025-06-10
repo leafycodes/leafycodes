@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm Anish (leafycodes)
 
-### **🚀 Computer Science Student | Security-Focused Developer | Problem Solver**
+### **🚀 Computer Science Student | Problem Solver**
 
 Passionate about building **intelligent systems** and solving complex challenges through code. I specialize in **Backend Development, Cybersecurity, and System Integration**, with hands-on experience in **penetration testing, network security, and full-stack applications**.
 
